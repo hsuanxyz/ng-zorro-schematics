@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "id": "AddNgZorro",
+  "title": "add ng zorro",
+  "type": "object",
+  "properties": {
+    "skipPackageJson": {
+      "type": "boolean",
+      "default": false,
+      "description": "Do not add ng-zorro dependencies to package.json (e.g., --skipPackageJson)"
+    }
+  },
+  "required": []
+}
