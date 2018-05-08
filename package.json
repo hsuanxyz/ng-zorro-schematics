@@ -1,6 +1,6 @@
 {
   "name": "ng-zorro-schematics",
-  "version": "0.0.0",
+  "version": "1.0.0-alpha.3",
   "description": "A schematics",
   "scripts": {
     "build": "tsc -p tsconfig.json",
