@@ -5,6 +5,12 @@
       "description": "add ng-zorro",
       "factory": "./ng-add",
       "schema": "./ng-add/schema.json"
+    },
+    "nzTable": {
+      "description": "Create a component that displays data with a data-table",
+      "factory": "./table",
+      "schema": "./table/schema.json",
+      "aliases": [ "nz-table" ]
     }
   }
 }
